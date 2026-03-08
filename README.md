@@ -1,0 +1,1 @@
+Each program should do the same, find the bugs, find the clue.
